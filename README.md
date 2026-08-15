@@ -1,7 +1,7 @@
 
 # Antalya Havalimanı Dış Hat Uçuş Trafik Analizi
 
-Bu proje, Antalya Havalimanı'nın dış hat uçuş trafiğini ve çeşitli jeopolitik/dış etkenlerin uçuş sayıları üzerindeki etkilerini incelemek amacıyla hazırlanmıştır.
+Bu proje, Antalya Havalimanı'nın dış hat uçuş trafiğini ve çeşitli jeopolitik/dış etkenlerin uçuşlar üzerindeki etkilerini incelemek amacıyla
 
 ##  Veri Seti
 - **Kaynak:** DHMİ (Devlet Hava Meydanları İşletmesi) verileri
